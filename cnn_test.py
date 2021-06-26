@@ -1,4 +1,5 @@
-import torch, torchvision
+#Created with support from https://github.com/madsendennis/notebooks/tree/master/pytorch
+torch, torchvision
 from torchvision import datasets, models, transforms
 import torch.nn as nn
 import torch.optim as optim
